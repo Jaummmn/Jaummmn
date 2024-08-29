@@ -16,42 +16,45 @@
       </td>
       <td>
         <a href="https://github.com/Jaummmn/convoychat">
-          <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jaummmn&layout=donut&langs_count=8&card_width=320" />
+          <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jaummmn&layout=donut&langs_count=8&card_width=320&theme=dark" />
         </a>
       </td>
     </tr>
   </table>
 </div>
 
-<!-- Nova seção - Botão do Gmail -->
+<!-- Seção de contato -->
 <div align="center">
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:joao.victor.martinho2@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-de-andrade-martinho-3083b928b/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
 </div>
 
-<!-- Nova seção - Badges de Linguagens de Programação -->
+<!-- Seção de Linguagens de Programação -->
 <div align="center">
   <h3>Linguagens de Programação</h3>
   <a href="#">
-    <img height="30"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />  
+    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C# Badge" />  
   </a>
   <a href="#">
-      <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />       
+    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core Badge" />       
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge" />
+    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP Badge" />      
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
+    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="JavaScript Badge" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
+    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server Badge" />      
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge" />
+    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" alt="HTML5 Badge" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" />
+    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" alt="CSS3 Badge" />
   </a>
 </div>
