@@ -35,26 +35,12 @@
 
 <!-- Seção de Linguagens de Programação -->
 <div align="center">
-  <h3>Linguagens de Programação</h3>
-  <a href="#">
+  <h2> My knowledge</h3>
     <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C# Badge" />  
-  </a>
-  <a href="#">
     <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core Badge" />       
-  </a>
-  <a href="#">
     <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP Badge" />      
-  </a>
-  <a href="#">
     <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="JavaScript Badge" />
-  </a>
-  <a href="#">
     <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server Badge" />      
-  </a>
-  <a href="#">
     <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" alt="HTML5 Badge" />
-  </a>
-  <a href="#">
     <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" alt="CSS3 Badge" />
-  </a>
 </div>
