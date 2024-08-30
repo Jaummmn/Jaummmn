@@ -14,9 +14,7 @@
   </div>
 
   <div style="margin: 10px;">
-    <a href="https://github.com/Jaummmn/convoychat">
-      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jaummmn&layout=donut&langs_count=10&card_width=320&theme=dark" alt="Top Languages" />
-    </a>
+      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jaummmn&layout=compact&langs_count=10&card_width=320&theme=dark" alt="Top Languages" />
   </div>
 </div>
 
@@ -32,19 +30,19 @@
 </div>
 
 <!-- Seção de Linguagens de Programação -->
-<div align="center">
+<div style="display: inline_block" align="center">
   <h2> My knowledge</h3>
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg" />       
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />       
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C# Badge" />  
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core Badge" />       
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP Badge" />
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" />        
-    <img height="30"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server Badge" />      
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="JavaScript Badge" />
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" alt="HTML5 Badge" />
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" alt="CSS3 Badge" />
-   
-          
+  <div style="text-align: center;">
+      <img align="center" height="30" margin src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg" />       
+      <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />       
+      <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C# Badge" />  
+      <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core Badge" />       
+      <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP Badge" />
+      <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" />        
+      <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+      <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server Badge" />      
+      <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="JavaScript Badge" />
+      <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" alt="HTML5 Badge" />
+      <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" alt="CSS3 Badge" />
+  </div>
 </div>
