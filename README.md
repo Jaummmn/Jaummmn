@@ -15,7 +15,7 @@
 
   <div style="margin: 10px;">
     <a href="https://github.com/Jaummmn/convoychat">
-      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jaummmn&layout=donut&langs_count=8&card_width=320&theme=dark" alt="Top Languages" />
+      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jaummmn&layout=donut&langs_count=10&card_width=320&theme=dark" alt="Top Languages" />
     </a>
   </div>
 </div>
